@@ -1,0 +1,20 @@
+# Laravel specific
+SanBongApp/.env
+SanBongApp/.env.backup
+SanBongApp/.env.production
+SanBongApp/vendor/
+SanBongApp/node_modules/
+SanBongApp/public/storage
+SanBongApp/public/hot
+SanBongApp/public/build
+SanBongApp/storage/*.key
+SanBongApp/storage/pail
+SanBongApp/.phpunit.result.cache
+SanBongApp/.phpunit.cache
+
+# IDE/System specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
